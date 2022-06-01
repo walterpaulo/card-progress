@@ -1,4 +1,4 @@
 ## HTML e CSS
 
 
-[![image](./image/tecnologias.png)](https://www.walterpaulo.com.br)
+[![image](./image/card.png)](https://www.walterpaulo.com.br)
